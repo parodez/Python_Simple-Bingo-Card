@@ -31,7 +31,7 @@ class Window(Frame):
               bg='blue',
               fg='white',
               font='Times 15 bold',
-              git relief=RAISED).grid(row=0,column=3)
+              relief=RAISED).grid(row=0,column=3)
         Label(bingo_frame,text='G',
               height=2,
               width=4,
